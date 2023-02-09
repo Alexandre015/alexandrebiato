@@ -1,4 +1,4 @@
-# Alendre Biato
+# Alxandre Biato
 
 Bem vindo ao curso técnico de Desenvolvimento de Sistemas 2023 CEEP
 
