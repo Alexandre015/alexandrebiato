@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <title> Trabalhando com CSS in-line</title>
+        <meta charset="UTF-8>"
+    </head>
+
+    <body>
+        
+        <h1 style="text-align: center; color: magenta" >Usando o CSS in-line </h1> 
+
+        <br> <!--Inserir quebra de linha-->
+        <hr Color="#EE82EE"> <!---->
